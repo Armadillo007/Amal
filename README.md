@@ -216,6 +216,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/crimeinvestigation.png" group-title="MALAYSIA",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movie",Celestial Movies
@@ -331,10 +334,8 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sonyone.png" group-title="Korea",Sony One
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 group-title="Addition" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",KBS World HD
+#EXTINF:-1 group-title="Korea" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",KBS World HD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Korea" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="Korea" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=713
@@ -446,36 +447,37 @@ https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+#EXTINF:-1 group-title="Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
+#EXTINF:-1 group-title="Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
 https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
+#EXTINF:-1 group-title="Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
+#EXTINF:-1 group-title="Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
 https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+#EXTINF:-1 group-title="Radio" ch-number="721" tvg-chno="721" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+#EXTINF:-1 group-title="Radio" ch-number="722" tvg-chno="722" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+#EXTINF:-1 group-title="Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+#EXTINF:-1 group-title="Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+#EXTINF:-1 group-title="Radio" ch-number="725" tvg-chno="725" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-
+#EXTINF:0, tvg-id="857" tvg-logo="https://cdn-radiotime-logos.tunein.com/s98853g.png" tvg-name="SINAR FM"  group-title="Radio",SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
 
 
