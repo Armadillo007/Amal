@@ -338,10 +338,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",K+
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://playlist.urfan.web.id/uq2663/h/h08/01/m3u8
+https://group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="Korea" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=713
@@ -441,7 +438,7 @@ https://conversant.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://conversant.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-id="800" tvg-name="eGG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="Sports",129:eGG Network
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71101
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71101
 
 
 
@@ -449,6 +446,9 @@ http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&user
 
 
 ====RADIO=================================================
+#EXTINF:0, tvg-id="856" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="Radio",ERA FM
+http://astro2.rastream.com/era?type=.flv
+
 #EXTINF:-1 group-title="Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
@@ -470,6 +470,9 @@ https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
 #EXTINF:-1 group-title="Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
 https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
 
+#EXTINF:0, tvg-id="863" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FM-Logo-THR-Gegar.jpg" tvg-name="ERA FM"  group-title="Radio",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
 #EXTINF:-1 group-title="Radio" ch-number="721" tvg-chno="721" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
@@ -488,10 +491,8 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 #EXTINF:0, tvg-id="857" tvg-logo="https://cdn-radiotime-logos.tunein.com/s98853g.png" tvg-name="SINAR FM"  group-title="Radio",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
 
-#EXTINF:0, tvg-id="863" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FM-Logo-THR-Gegar.jpg" tvg-name="ERA FM"  group-title="RadioMalaysia",THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 
-#EXTINF:0, tvg-id="856" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="RadioMalaysia",ERA FM
-http://astro2.rastream.com/era?type=.flv
+
+
 
 
