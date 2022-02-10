@@ -72,40 +72,40 @@ https://my.odtv.uk:443/live/9486331171/7860879594/99.ts
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=1705
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1706
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIAs2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=4354
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",WARNA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=1706
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1706
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",WARNAs2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=4313
 
 #EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71146
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71146
 
 #EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=721
 
 #EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",PRIMA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71020
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71020
 
 #EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",PRIMA/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=734
 
 #EXTINF:-1 tvg-id="106" tvg-name="OASIS" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png" group-title="MALAYSIA",OASIS
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=1701
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1701
 
 #EXTINF:-1 tvg-id="106" tvg-name="OASIS" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png" group-title="MALAYSIA",OASIS/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=732
 
 #EXTINF:-1 tvg-id="113" tvg-name="AURA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="MALAYSIA",AURA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71145
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71145
 
 #EXTINF:-1 tvg-id="112" tvg-name="RANIA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="MALAYSIA",RANIA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71144
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71144
 
 #EXTINF:-1 tvg-id="109" tvg-name="NAURA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA",NAURA
 http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71023
@@ -321,7 +321,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/crimeinvestigation.png" group-title="Lifestyke",Crime Investigation
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/crimeinvestigation.png" group-title="Lifestyle",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -382,12 +382,14 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848" group-title="Sports",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7049/CPS/images/universal/film/logo/202201/20220120/20220120145630664xqz.jpg" group-title="Sports",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
 ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Sports",ARENA HD
-http://mu03ye.wanicelife.com:8880/live/YALM4262/360547880/71102.ts
+http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/71102.ts
 
 #EXTINF:-1 tvg-id="801" tvg-name="ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Sports",ARENA HD/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=688
@@ -396,25 +398,25 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802201
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=965
 
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports",SUPERSPORT
-http://mu03ye.wanicelife.com:8880/live/YALM4262/360547880/1722.ts
+http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/1722.ts
 
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports",SUPERSPORT/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=656
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sports",SUPERSPORT 2
-http://mu03ye.wanicelife.com:8880/live/YALM4262/360547880/1721.ts
+http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/1721.ts
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sports",SUPERSPORT 2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=655
 
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3
-http://mu03ye.wanicelife.com:8880/live/YALM4262/360547880/1720.ts
+http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/1720.ts
 
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=654
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sports",SUPERSPORT 4
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=59217
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=59217
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sports",SUPERSPORT 4/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=653
@@ -479,5 +481,11 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:0, tvg-id="857" tvg-logo="https://cdn-radiotime-logos.tunein.com/s98853g.png" tvg-name="SINAR FM"  group-title="Radio",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:0, tvg-id="863" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FM-Logo-THR-Gegar.jpg" tvg-name="ERA FM"  group-title="RadioMalaysia",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:0, tvg-id="856" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="RadioMalaysia",ERA FM
+http://astro2.rastream.com/era?type=.flv
 
 
