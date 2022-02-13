@@ -19,8 +19,11 @@ https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0luIrmjg9aeu7ccu81
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",CH007 NTV 7 KPM
+#EXTINF:-1 tvg-id="147" tvg-name="DidikTVKPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",CH007 NTV 7 KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",NTV 7 KPM
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1731
 
 #EXTINF:-1 tvg-id="8TV" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",CH108 8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
@@ -346,11 +349,11 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 group-title="Korea" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",KBS World HD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",K+
-https://group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-
 #EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="Korea" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=713
+
+#EXTINF:-1 group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",K+
+https://group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -457,8 +460,6 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 
 
 
-
-
 ====RADIO=================================================
 #EXTINF:0, tvg-id="856" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="Radio",ERA FM
 http://astro2.rastream.com/era?type=.flv
@@ -507,6 +508,189 @@ http://astro2.rastream.com/sinar?type=.flv
 
 
 
+=====Backup==================================================================================
 
 
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY : Smart(B)",TV1
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1734
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY : Smart(B)",TV2
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1733
+
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY : Smart(B)",TV3
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1732
+
+#EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MY : Smart(B)",NTV 7 KPM
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1731
+
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MY : Smart(B)",8TV
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1730
+
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MY : Smart(B)",TV9
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1729
+
+#EXTINF:-1 tvg-id="311" tvg-name="AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="MY : Smart(B)",AOD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1724
+
+#EXTINF:-1 tvg-id="501" tvg-name="AWANI" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MY : Smart(B)",AWANI
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1704
+
+#EXTINF:-1 tvg-id="106" tvg-name="OASIS" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png" group-title="MY : Smart(B)",OASIS
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1701
+
+#EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MY : Smart(B)",PRIMA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71020
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MY : Smart(B)",RIA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1705
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MY : Smart(B)",WARNA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1706
+
+#EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MY : Smart(B)",CERIA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71080
+
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="MY : Smart(B)",Boomerang HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71123
+
+#EXTINF:-1 tvg-ID="615" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="MY : Smart(B)",CARTOON NETWORK
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71084
+
+#EXTINF:-1 tvg-id="616" tvg-name="NICKELODEON HD" tvg-logo="https://i.ytimg.com/vi/OYkwp6AimxA/maxresdefault.jpg" group-title="MY : Smart(B)",NICKELODEON HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71085
+
+#EXTINF:-1 tvg-id="617" tvg-name="NICK JR" tvg-logo="https://pbs.twimg.com/profile_images/1478805340212838413/YAJM_fei_400x400.jpg" group-title="MY : Smart(B)",NICK JR
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71086
+
+#EXTINF:-1 tvg-id="chn" tvg-name="Kids TV" tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png" group-title="MY : Smart(B)",Kids TV
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60454
+
+#EXTINF:-1 tvg-id="chn" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="MY : Smart(B)",Disney XD HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=2921
+
+#EXTINF:-1 tvg-id="701" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MY : Smart(B)",AXN
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71087
+
+#EXTINF:-1 tvg-id="705" tvg-name="Kix HD" tvg-logo="https://i.loli.net/2021/10/07/hzQv1sRZuOqAcwy.png" group-title="MY : Smart(B)",Kix HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60350
+
+#EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MY : Smart(B)",CITRA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71146
+
+#EXTINF:-1 tvg-id="113" tvg-name="AURA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="MY : Smart(B)",AURA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71145
+
+#EXTINF:-1 tvg-id="112" tvg-name="RANIA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="MY : Smart(B)",RANIA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71144
+
+#EXTINF:-1 tvg-id="712" tvg-name="Warner TV" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/719-300_orig.png" group-title="MY : Smart(B)",Warner TV
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71094
+
+#EXTINF:-1 tvg-name="HitsHD" tvg-id="706" tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MY : Smart(B)",HITS HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71089
+
+#EXTINF:-1 tvg-ID="416" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="MY : Smart(B)",TVN MOVIES
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71059
+
+#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="MY : Smart(B)",TVN
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71055
+
+#EXTINF:-1 tvg-ID="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="MY : Smart(B)",ONE TV
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71053
+
+#EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="MY : Smart(B)" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71052
+
+#EXTINF:-1 tvg-id="321" tvg-name="CCM" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="MY : Smart(B)",CCM
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71046
+
+#EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="MY : Smart(B)",Celestial Movies HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1718
+
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png" group-title="MY : Smart(B)",BollyOne HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71037
+
+#EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="MY : Smart(B)",BOO
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1697
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="Star Movies (FHD)" tvg-logo="https://images.mypad4k.com/starmovies.jpg" group-title="MY : Smart(B)",Star Movies HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1896
+
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sonypix.png" group-title="MY : Smart(B)",SONY PIX HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1933
+
+#EXTINF:-1 tvg-name="401" tvg-id="401" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MY : Smart(B)",HITS MOVIE
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71056
+
+#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MY : Smart(B)",HBO
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71057
+
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="MY : Smart(B)",HBO Family
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60474
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="MY : Smart(B)",HBO Signature
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60456
+
+#EXTINF:-1 tvg-id="chn" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MY : Smart(B)",HBO Hits
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60458
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="412" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MY : Smart(B)",CINEMAX
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60480
+
+#EXTINF:-1 tvg-id="chn" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/170px-Paramount_Channel.svg.png" group-title="MY : Smart(B)",Paramount
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71135
+
+#EXTINF:-1 tvg-id="chn" tvg-name="Cinema World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxeqzmqc8Y2s5q-4sf7eyNz0tV8Fa4D7ioH_4ILgyttctUKXAK2n8IfsH1sAng4wN9xc&usqp=CAU" group-title="MY : Smart(B)",Cinema World
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60459
+
+#EXTINF:-1 tvg-id="556" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="MY : Smart(B)",ANIMAL PLANET HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71075
+
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://3.bp.blogspot.com/-xdS-EZGtmPA/W36lovZxheI/AAAAAAAAEWI/4uTXb6_KZTU2lOfRA1LOlatge4MtlH8vQCLcBGAs/s1600/Discovery%2BChannel%2BLogo.png" group-title="MY : Smart(B)",Discovery Channel HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60481
+
+#EXTINF:-1 tvg-id="chn" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="MY : Smart(B)",Discovery Science
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71073
+
+#EXTINF:-1 tvg-id="555" tvg-name="HISTORY HD" tvg-logo="https://img.favpng.com/13/13/4/history-television-channel-logo-television-show-png-favpng-FTKBPqwurbkF0U2qFKaMGT68u.jpg" group-title="MY : Smart(B)",HISTORY HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71074
+
+#EXTINF:-1 tvg-id="715" tvg-name="HTGV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MY : Smart(B)",HGTV
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71096
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema HD" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="MY : Smart(B)",MyCinema HD
+https://group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema Asia HD" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="MY : Smart(B)",MyCinema Asia HD
+https://group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MY : Smart(B)",MyFamily Channel HD
+https://group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MY : Smart(B)",MyCinema Europe
+https://group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-id="801" tvg-name="ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="MY : Smart(B)",ARENA HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71102
+
+#EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="MY : Smart(B)",SUPERSPORT
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1722
+
+#EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="MY : Smart(B)",SUPERSPORT 2
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1721
+
+#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="MY : Smart(B)",SUPERSPORT 3
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1720
+
+#EXTINF:-1 tvg-id="800" tvg-name="eGG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="MY : Smart(B)",129:eGG Network
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71101
+
+#EXTINF:-1 tvg-id="818" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="MY : Smart(B)",BEIN SPORTS 1
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71104
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="MY : Smart(B)",BEIN SPORTS 2
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71105
+
+#EXTINF:-1 tvg-id="821" tvg-name="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="MY : Smart(B)",WWE NETWORK
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1698
 
