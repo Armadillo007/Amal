@@ -11,6 +11,9 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="TV3" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",CH103 TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
 #EXTINF:-1 tvg-id="DramaSangat" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",CH105 Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0luIrmjg9aeu7ccu81pJtWk)/dm/3/x6zvnex/s/live-2.m3u8
@@ -25,13 +28,11 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",NTV 7 KPM
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1731
 
-#EXTINF:-1 tvg-id="8TV" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",CH108 8TV
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08m6OEqhvu90TL20zGnB1Uw0)/dm/3/x7a7ru1/s/live-1.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA",8TV
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1730
 
-#EXTINF:-1 tvg-id="TV9" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",CH109 TV9
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0M5QnnsGztnUE4B-UH6Ks)/dm/3/x6qqja6/s/live-1.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1729
 
 #EXTINF:-1 tvg-id="111" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",CH111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -408,8 +409,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
-ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Sports",ARENA HD
-http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/71102.ts
+#EXTINF:-1 tvg-id="801" tvg-name="ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Sport",ARENA HD
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71102
 
 #EXTINF:-1 tvg-id="801" tvg-name="ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Sports",ARENA HD/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=688
@@ -417,20 +418,19 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802201
 #EXTINF:-1 tvg-id="802" tvg-name="Astro Arena 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports",Astro Arena 2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=965
 
-#EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports",SUPERSPORT
-http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/1722.ts
+#EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sport",SUPERSPORT
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1722
 
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports",SUPERSPORT/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=656
 
-#EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sports",SUPERSPORT 2
-http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/1721.ts
+#EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sport",SUPERSPORT 2
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1721
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sports",SUPERSPORT 2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=655
 
-#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3
-http://wanicelife.com:8880/live/SWFAF00519/8YGKGUA6/1720.ts
+#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1720
 
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=654
