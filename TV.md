@@ -16,7 +16,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",CH105 Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0luIrmjg9aeu7ccu81pJtWk)/dm/3/x6zvnex/s/live-2.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",CH106 TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -25,14 +25,11 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="147" tvg-name="DidikTVKPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",CH007 NTV 7 KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",NTV 7 KPM
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1731
-
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA",8TV
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1730
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1730
 
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1729
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1729
 
 #EXTINF:-1 tvg-id="111" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",CH111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -51,14 +48,11 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="DidikTVKPM" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" DidikTV KPM" tvg-logo="https://didik.tv/images/logotv2.png",CH147 DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="BernamaTV" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA",CH502 Bernama TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
-
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-country="Others" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="MALAYSIA",CH513 Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="CNA" tvg-country="Others" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="MALAYSIA",CH515 CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643402000/ei/sP7zYZy4IoG33LUP5t23yAs/ip/115.135.26.176/id/XWq5kBlakcQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTMpvjuRH9g8VCFtDqGn6DbTodZXWA4X6MANZ7FU63G0CIFKsp_vYS154Kwg-U6VZdAcUpsLHcZMR0WYXeQBBotEG/file/index.m3u8
+https://conversant.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #EXTINF:-1 xui-id="000" tvg-id="" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="TV Ikim" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -69,13 +63,10 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="Go Shop" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",CH120 GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-#EXTINF:-1 tvg-id="611" group-title="MY : LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",Astro Ceria 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+#EXTINF:-1 tvg-id="611" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",Astro Ceria http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71080
 
 #EXTINF:-1 tvg-id="AstroCeria" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",CH611 Astro Ceria
-https://my.odtv.uk:443/live/9486331171/7860879594/99.ts
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=730
 
 #EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",CH501 Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -101,12 +92,6 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802201
 #EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",PRIMA
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71020
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="105" ch-number="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY : LIVE",Astro Prima 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
 #EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",PRIMA/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=734
 
@@ -121,9 +106,6 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 
 #EXTINF:-1 tvg-id="112" tvg-name="RANIA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="MALAYSIA",RANIA
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71144
-
-#EXTINF:-1 tvg-id="109" tvg-name="NAURA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA",NAURA
-http://mu03ye.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=71023
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -184,7 +166,17 @@ http://playlist.urfan.web.id/dr9445/h/h15/index.m3u8
 https://conversant.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-id="404" tvg-name="Boo" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movie",Boo
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1697
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1697
+
+#EXTINF:-1 tvg-id="404" ch-number="404" group-title="MY : LIVE" tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png",BOO HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+#EXTINF:-1 tvg-id="404" tvg-name="Boo" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MY : LIVE",Boo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -228,15 +220,6 @@ https://conversant.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-name="chn" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="Movie",&FLIX HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=54975
-
-#EXTINF:-1 tvg-name="chn" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Movie",&PRIVE HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=55158
-
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://i.imgur.com/Q0AKrWs.png" group-title="Movie",&PICTURES HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1957
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -286,7 +269,10 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nickjr.png" group-title="Kids",Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71086
+
+#EXTINF:-1 tvg-id="617" tvg-name="NICK JR" tvg-logo="https://pbs.twimg.com/profile_images/1478805340212838413/YAJM_fei_400x400.jpg" group-title="MY : LIVE",NICK JR
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=619
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -367,6 +353,12 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802201
 #EXTINF:-1 group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",K+
 https://group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MY : LIVE",ASTRO Oh!K HD
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=712
+
+#EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MY : LIVE",ASTRO Oh!K HD
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=712
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvn.png" group-title="Korea",tvN
@@ -441,13 +433,14 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sports",SUPERSPORT 2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=655
 
-#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1720
+#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sport",SUPERSPORT 3
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1720
 
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sports",SUPERSPORT 3/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=654
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sports",SUPERSPORT 4
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=59217
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=59217
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sports",SUPERSPORT 4/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=653
@@ -520,188 +513,4 @@ http://astro2.rastream.com/sinar?type=.flv
 
 
 =====Backup==================================================================================
-
-
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Backup",TV1
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1734
-
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Backup",TV2
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1733
-
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Backup",TV3
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1732
-
-#EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="Backup",NTV 7 KPM
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1731
-
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Backup",8TV
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1730
-
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Backup",TV9
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1729
-
-#EXTINF:-1 tvg-id="311" tvg-name="AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="Backup",AOD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1724
-
-#EXTINF:-1 tvg-id="501" tvg-name="AWANI" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Backup",AWANI
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1704
-
-#EXTINF:-1 tvg-id="106" tvg-name="OASIS" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png" group-title="Backup",OASIS
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1701
-
-#EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Backup",PRIMA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71020
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Backup",RIA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1705
-
-#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Backup",WARNA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1706
-
-#EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Backup",CERIA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71080
-
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="Backup",Boomerang HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71123
-
-#EXTINF:-1 tvg-ID="615" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="Backup",CARTOON NETWORK
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71084
-
-#EXTINF:-1 tvg-id="616" tvg-name="NICKELODEON HD" tvg-logo="https://i.ytimg.com/vi/OYkwp6AimxA/maxresdefault.jpg" group-title="Backup",NICKELODEON HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71085
-
-#EXTINF:-1 tvg-id="617" tvg-name="NICK JR" tvg-logo="https://pbs.twimg.com/profile_images/1478805340212838413/YAJM_fei_400x400.jpg" group-title="Backup",NICK JR
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71086
-
-#EXTINF:-1 tvg-id="chn" tvg-name="Kids TV" tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png" group-title="Backup",Kids TV
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60454
-
-#EXTINF:-1 tvg-id="chn" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="Backup",Disney XD HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=2921
-
-#EXTINF:-1 tvg-id="701" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="Backup",AXN
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71087
-
-#EXTINF:-1 tvg-id="705" tvg-name="Kix HD" tvg-logo="https://i.loli.net/2021/10/07/hzQv1sRZuOqAcwy.png" group-title="Backup",Kix HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60350
-
-#EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="Backup",CITRA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71146
-
-#EXTINF:-1 tvg-id="113" tvg-name="AURA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="Backup",AURA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71145
-
-#EXTINF:-1 tvg-id="112" tvg-name="RANIA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="Backup",RANIA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71144
-
-#EXTINF:-1 tvg-id="712" tvg-name="Warner TV" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/719-300_orig.png" group-title="Backup",Warner TV
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71094
-
-#EXTINF:-1 tvg-name="HitsHD" tvg-id="706" tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="Backup",HITS HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71089
-
-#EXTINF:-1 tvg-ID="416" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Backup",TVN MOVIES
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71059
-
-#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="Backup",TVN
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71055
-
-#EXTINF:-1 tvg-ID="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Backup",ONE TV
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71053
-
-#EXTINF:-1 tvg-chno="392" tvg-id="392" group-title="Backup" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71052
-
-#EXTINF:-1 tvg-id="321" tvg-name="CCM" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="Backup",CCM
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71046
-
-#EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Backup",Celestial Movies HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1718
-
-#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png" group-title="Backup",BollyOne HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71037
-
-#EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Backup",BOO
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1697
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="Star Movies (FHD)" tvg-logo="https://images.mypad4k.com/starmovies.jpg" group-title="Backup",Star Movies HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1896
-
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sonypix.png" group-title="Backup",SONY PIX HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1933
-
-#EXTINF:-1 tvg-name="401" tvg-id="401" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="Backup",HITS MOVIE
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71056
-
-#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Backup",HBO
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71057
-
-#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="Backup",HBO Family
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60474
-
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Backup",HBO Signature
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60456
-
-#EXTINF:-1 tvg-id="chn" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Backup",HBO Hits
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60458
-
-#EXTINF:-1 tvg-name="Cinemax" tvg-id="412" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Backup",CINEMAX
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60480
-
-#EXTINF:-1 tvg-id="chn" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/170px-Paramount_Channel.svg.png" group-title="Backup",Paramount
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71135
-
-#EXTINF:-1 tvg-id="chn" tvg-name="Cinema World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxeqzmqc8Y2s5q-4sf7eyNz0tV8Fa4D7ioH_4ILgyttctUKXAK2n8IfsH1sAng4wN9xc&usqp=CAU" group-title="Backup",Cinema World
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60459
-
-#EXTINF:-1 tvg-id="556" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="Backup",ANIMAL PLANET HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71075
-
-#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://3.bp.blogspot.com/-xdS-EZGtmPA/W36lovZxheI/AAAAAAAAEWI/4uTXb6_KZTU2lOfRA1LOlatge4MtlH8vQCLcBGAs/s1600/Discovery%2BChannel%2BLogo.png" group-title="Backup",Discovery Channel HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=60481
-
-#EXTINF:-1 tvg-id="chn" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Backup",Discovery Science
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71073
-
-#EXTINF:-1 tvg-id="555" tvg-name="HISTORY HD" tvg-logo="https://img.favpng.com/13/13/4/history-television-channel-logo-television-show-png-favpng-FTKBPqwurbkF0U2qFKaMGT68u.jpg" group-title="Backup",HISTORY HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71074
-
-#EXTINF:-1 tvg-id="715" tvg-name="HTGV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Backup",HGTV
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71096
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema HD" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Backup",MyCinema HD
-https://group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema Asia HD" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Backup",MyCinema Asia HD
-https://group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Backup",MyFamily Channel HD
-https://group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Channel HD" tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="Backup",MyCinema Europe
-https://group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-id="801" tvg-name="ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Backup",ARENA HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71102
-
-#EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Backup",SUPERSPORT
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1722
-
-#EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Backup",SUPERSPORT 2
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1721
-
-#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Backup",SUPERSPORT 3
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1720
-
-#EXTINF:-1 tvg-id="800" tvg-name="eGG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="Backup",129:eGG Network
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71101
-
-#EXTINF:-1 tvg-id="818" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="Backup",BEIN SPORTS 1
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71104
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Backup",BEIN SPORTS 2
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=71105
-
-#EXTINF:-1 tvg-id="821" tvg-name="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Backup",WWE NETWORK
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF00519&password=8YGKGUA6&stream=1698
 
